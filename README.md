@@ -1,15 +1,12 @@
 ![Project Image](https://raw.githubusercontent.com/victoria-1989/portfolio/6d6fce7e3b7b7c8c131f5f730468815210dfb727/assets/Projet%20Supprimer%20un%20arri%C3%A8re-plan.png)
 
-Welcome to the portfolio of Victoria Boyer. Explore my projects, skills, and experiences.
-
-
 # CONTRAT D’ALTERNANCE, Formation DATA & IA ENGINEER de 15 mois, débutant le 21 octobre 2024
 
 
-###RÉSUMÉ PROFESSIONNEL
+### RÉSUMÉ PROFESSIONNEL
 Future data analyst à la recherche d’une entreprise dans le cadre de mes études en alternance comme chef de projet IA. En projet de reconversion, je suis curieuse, dynamique et prête à relever de nouveaux défis.
 
-###EXPÉRIENCE PROFESSIONNELLE
+### EXPÉRIENCE PROFESSIONNELLE
 Formation Data Analyst | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
 Projet 1 - 1 mois Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI
 Projet 2 - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
@@ -27,14 +24,14 @@ Assistante commerciale | FONCIA TRANSACTION FRANCE | Septembre 2013 à juin 2021
 - Réception téléphonique et physique Information sur les produits/services de l'Entreprise. 
 - Agenda des négociateurs
 
-###FORMATION
+### FORMATION
 FORMATION DATA ANALYST | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
 Titre RNCP Niveau 6 - Equivalent Bac +3
 
 BACCALAUREAT | LYCEE JEAN MACE | 2007-2008
 Bac Littéraire, option anglais renforcé
  
-###COMPÉTENCES
+### COMPÉTENCES
 - PYTHON sur VS CODE et Google Colaboratory 
 - SQL 
 - POWER BI, STREAMLIT 
@@ -46,7 +43,7 @@ Bac Littéraire, option anglais renforcé
 - Modélisation des données 
 - Visualisation des données
 
-###COMPETENCES PERSONNELLES
+### COMPETENCES PERSONNELLES
 - Raisonnement logique et résolution de problèmes 
 - Résilience 
 - Appétence au travail d’équipe 
