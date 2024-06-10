@@ -1,12 +1,5 @@
----
 title: Victoria Boyer
-logo: portfolio/blob/main/assets/Photo.JPG
-description: Welcome to the portfolio of Victoria Boyer. Explore my projects, skills, and experiences.
-show_downloads: true
 theme: jekyll-theme-minimal
----
-
-![Victoria Boyer](portfolio/blob/main/assets/Photo.JPG)
-
-Welcome to the portfolio of Victoria Boyer. Explore my projects, skills, and experiences.
+show_downloads: true
+description: Welcome to the portfolio of Victoria Boyer. Explore my projects, skills, and experiences.
 
