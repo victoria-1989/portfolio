@@ -1,5 +1,3 @@
-# Victoria Boyer
-
 ![Project Image](https://raw.githubusercontent.com/victoria-1989/portfolio/6d6fce7e3b7b7c8c131f5f730468815210dfb727/assets/Projet%20Supprimer%20un%20arri%C3%A8re-plan.png)
 
 Welcome to the portfolio of Victoria Boyer. Explore my projects, skills, and experiences.
