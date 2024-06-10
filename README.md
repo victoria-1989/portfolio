@@ -1,3 +1,7 @@
+# Victoria Boyer
+
+![Victoria Boyer](portfolio/blob/main/assets/Photo.JPG)
+
 # CONTRAT D’ALTERNANCE, Formation DATA & IA ENGINEER de 15 mois, débutant le 21 octobre 2024
 
 
