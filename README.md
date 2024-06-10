@@ -21,8 +21,7 @@ Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
 - Estimation vente et location
 - Prise de mandats, visites
 - Etat des lieux
-- Négociation
-
+- 
 Assistante commerciale | FONCIA TRANSACTION FRANCE | Septembre 2013 à juin 2021 
 - Traitement commercial et administratif des dossiers (conseil,suivi et connaissances juridiques) 
 - Réception téléphonique et physique Information sur les produits/services de l'Entreprise. 
@@ -53,3 +52,9 @@ Bac Littéraire, option anglais renforcé
 - Appétence au travail d’équipe 
 - Curiosité 
 - Bonne communication orale et écrite
+
+
+- ## Contacts
+- LinkedIn: (https://www.linkedin.com/in/victoria-boyer2/)
+- Email: victoria.boyer1989@gmail.com
+- Négociation
