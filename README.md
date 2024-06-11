@@ -52,8 +52,3 @@ Bac Littéraire, option anglais renforcé
 - Appétence au travail d’équipe 
 - Curiosité 
 - Bonne communication orale et écrite
-- Négociation
-
-- ## Contacts
-- LinkedIn: (https://www.linkedin.com/in/victoria-boyer2/)
-- Email: victoria.boyer1989@gmail.com
