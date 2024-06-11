@@ -1,4 +1,5 @@
 title: Victoria Boyer
-theme: jekyll-theme-minimal
+logo: /assets/img/headshot_circle.png
+#description: text below image
 show_downloads: true
-description: Welcome to the portfolio of Victoria Boyer. Explore my projects, skills, and experiences
+theme: jekyll-theme-minimal
