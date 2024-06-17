@@ -4,7 +4,7 @@
 
 
 ### RÉSUMÉ PROFESSIONNEL
-Future data analyst à la recherche d’une entreprise dans le cadre de mes études en alternance comme chef de projet IA. En projet de reconversion, je suis curieuse, dynamique et prête à relever de nouveaux défis.
+🚀 Future data analyst à la recherche d’une entreprise dans le cadre de mes études en alternance comme chef de projet IA. 🔍 En projet de reconversion, je suis curieuse, dynamique et prête à relever de nouveaux défis. 💡
 
 ### EXPÉRIENCE PROFESSIONNELLE
 Formation Data Analyst | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
