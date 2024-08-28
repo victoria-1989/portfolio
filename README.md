@@ -52,3 +52,4 @@ Bac Littéraire, option anglais renforcé
 - Appétence au travail d’équipe 
 - Curiosité 
 - Bonne communication orale et écrite
+- Esprit créatif
