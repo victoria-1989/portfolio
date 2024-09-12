@@ -13,7 +13,7 @@ Projet 1 - 1 mois Sujet : Réalisation d’un tableau de bord pour une entrepris
 
 Projet 2 - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
 
-Projet 3 - 1 mois et demi (en cours) Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit
+Projet 3 - 1 mois et demi Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit
 
 Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
 - Prospection physique et téléphonique
@@ -21,7 +21,7 @@ Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
 - Estimation vente et location
 - Prise de mandats, visites
 - Etat des lieux
-- 
+ 
 Assistante commerciale | FONCIA TRANSACTION FRANCE | Septembre 2013 à juin 2021 
 - Traitement commercial et administratif des dossiers (conseil,suivi et connaissances juridiques) 
 - Réception téléphonique et physique Information sur les produits/services de l'Entreprise. 
