@@ -9,7 +9,8 @@
 ### EXPÉRIENCE PROFESSIONNELLE
 Formation Data Analyst | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
 
-Projet 1 - 1 mois Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI Site: https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/README.md
+Projet 1 - 1 mois Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI 
+Site: https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/README.md
 
 Projet 2 - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
 
