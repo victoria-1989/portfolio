@@ -14,7 +14,7 @@ Site: https://github.com/victoria-1989/Projet1_wild_code_school/blob/main/README
 
 Projet 2 - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
 
-Projet 3 - 1 mois et demi Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit
+Projet 3 - 1 mois et demi Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit Site: https://github.com/victoria-1989/Projet3_wild_code_school
 
 Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
 - Prospection physique et téléphonique
