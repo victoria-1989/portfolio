@@ -9,13 +9,16 @@
 ### EXPÉRIENCE PROFESSIONNELLE
 Formation Data Analyst | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
 
--Projet Toy's and Cie - 1 mois Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI 
+-Projet Toy's and Cie - 1 mois 
+Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI 
 Site: [https://github.com/victoria-1989/Projet1_wild_code_school](https://github.com/victoria-1989/ToysandCie)
 
--Projet Flixoucreuse - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
+-Projet Flixoucreuse - 1 mois 
+Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
 
--Projet 3 - 1 mois et demi Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit 
-Site: https://github.com/victoria-1989/Projet3_wild_code_school
+-Projet WLab- 1 mois et demi 
+Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit 
+Site: https://github.com/victoria-1989/WLab
 
 Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
 - Prospection physique et téléphonique
