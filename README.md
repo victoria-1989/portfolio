@@ -4,17 +4,17 @@
 
 
 ### RÉSUMÉ PROFESSIONNEL
-🚀 Future data analyst à la recherche d’une entreprise dans le cadre de mes études en alternance comme chef de projet IA. 🔍 En projet de reconversion, je suis curieuse, dynamique et prête à relever de nouveaux défis. 💡
+🚀 Data anlyst junior à la recherche d’une entreprise dans le cadre de mes études en alternance comme chef de projet IA/ data engineer. 🔍 Je suis curieuse, dynamique et prête à relever de nouveaux défis. 💡
 
 ### EXPÉRIENCE PROFESSIONNELLE
 Formation Data Analyst | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
 
-Projet 1 - 1 mois Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI 
-Site: https://github.com/victoria-1989/Projet1_wild_code_school
+-Projet Toy's and Cie - 1 mois Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI 
+Site: [https://github.com/victoria-1989/Projet1_wild_code_school](https://github.com/victoria-1989/ToysandCie)
 
-Projet 2 - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
+-Projet Flixoucreuse - 1 mois Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
 
-Projet 3 - 1 mois et demi Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit 
+-Projet 3 - 1 mois et demi Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit 
 Site: https://github.com/victoria-1989/Projet3_wild_code_school
 
 Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
