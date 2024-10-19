@@ -42,14 +42,18 @@ victoria.boyer1989@gmail.com | https://www.linkedin.com/in/victoria-boyer2/ | ht
 <br>
 
 # Projet Toy's and Cie
-Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI 
+Sujet : Réalisation d’un tableau de bord pour une entreprise fictive, dynamique pouvant être mis à jour avec les données de l’entreprise<br>
+Logiciels utilisés : MYSQL - Trello - VS code - Google Colab - Power BI<br>
 Site: [https://github.com/victoria-1989/Projet1_wild_code_school](https://github.com/victoria-1989/ToysandCie)
 
 # Projet Flixoucreuse
-Sujet : Création d’un système de recommandation de films Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github Site: https://github.com/victoria-1989/flixoucreuse
+Sujet : Création d’un système de recommandation de films<br> 
+Logiciels utilisés : VS code - Google Colab - Trello - Streamlit -Github<br>
+Site: https://github.com/victoria-1989/flixoucreuse
 
 # Projet WLab
-Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie. Logiciels utilisés : VS code - Google Colab - Trello - Streamlit 
+Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie<br>
+Logiciels utilisés : VS code - Google Colab - Trello - Streamlit<br>
 Site: https://github.com/victoria-1989/WLab
 
 <div align="center">
