@@ -1,4 +1,6 @@
-![Project Image](https://raw.githubusercontent.com/victoria-1989/portfolio/6d6fce7e3b7b7c8c131f5f730468815210dfb727/assets/Projet%20Supprimer%20un%20arri%C3%A8re-plan.png)
+<div align="center">
+<img src="https://github.com/victoria-1989/portfolio/blob/main/e6aa4858-18dd-4b68-a699-a409add97dd6.png" alt="Project Image" width="550px">
+</div>
 
 # Formation en alternance Chef de projet IA/ Data engineer
 
