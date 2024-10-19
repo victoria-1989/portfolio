@@ -59,25 +59,42 @@ Site: https://github.com/victoria-1989/WLab
 <div align="center">
   <h2>FORMATION</h2>
 </div>
-FORMATION CHEF DE PROJET IA/ DATA ENGINEER WILD CODE SCHOOL | ALternance octobre 2024
-Titre RNCP Niveau 7 - Equivalent Bac +5
 
-FORMATION DATA ANALYST | WILD CODE SCHOOL | BOOTCAMP Février-Juillet 2024
-Titre RNCP Niveau 6 - Equivalent Bac +3
+### Chef de Projet IA / Data Engineer
+**Wild Code School**  
+<small>*Alternance, Octobre 2024*  
+**Titre RNCP :** Niveau 7 - Équivalent Bac +5</small>
+
+---
+
+### Data Analyst
+**Wild Code School**  
+<small>*Bootcamp, Février - Juillet 2024*  
+**Titre RNCP :** Niveau 6 - Équivalent Bac +3</small>
+
+---
+
+### Baccalauréat
+**Lycée Jean Macé**  
+<small>*2007 - 2008*  
+**Diplôme :** Bac Littéraire, option Anglais renforcé</small>
 
 <div align="center">
-  <h2>EXPERIENCE PROFESSIONELLE</h2>
+  <h2>EXPERIENCE PROFESSIONNELLE</h2>
 </div>
-Conseillère en immobilier | GROUPE LFB IMMOBILIER | Juin 2021 à juin 2023
-- Prospection physique et téléphonique
-- Estimation vente et location
-- Prise de mandats, visites
- 
-Assistante commerciale | FONCIA TRANSACTION FRANCE | Septembre 2013 à juin 2021 
-- Traitement commercial et administratif des dossiers (conseil,suivi et connaissances juridiques) 
-- Agenda des négociateurs
 
+### Conseillère en immobilier
+**Groupe LFB Immobilier**  
+*Juin 2021 à Juin 2023*  
+- Prospection physique et téléphonique  
+- Estimation vente et location  
+- Prise de mandats, visites  
 
-BACCALAUREAT | LYCEE JEAN MACE | 2007-2008
-Bac Littéraire, option anglais renforcé
- 
+---
+
+### Assistante commerciale
+**Foncia Transaction France**  
+*Septembre 2013 à Juin 2021*  
+- Traitement commercial et administratif des dossiers (conseil, suivi et connaissances juridiques)  
+- Gestion de l'agenda des négociateurs  
+
