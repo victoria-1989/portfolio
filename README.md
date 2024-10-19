@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/victoria-1989/portfolio/blob/main/e6aa4858-18dd-4b68-a699-a409add97dd6.png" alt="Project Image" width="550px">
 
-# ALTERNANCE - FORMATION DATA & IA ENGINEER DE 15 MOIS
+# ALTERNANCE - FORMATION DATA & IA ENGINEER
 RYTHME 1 SEMAINE EN ÉCOLE, 3 SEMAINES EN ENTREPRISE - PARIS, ÎLE-DE-FRANCE<br>
 victoria.boyer1989@gmail.com | https://www.linkedin.com/in/victoria-boyer2/ | https://github.com/victoria-1989
 
