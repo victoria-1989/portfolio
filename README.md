@@ -98,3 +98,13 @@ Site: https://github.com/victoria-1989/WLab
 - Traitement commercial et administratif des dossiers (conseil, suivi et connaissances juridiques)  
 - Gestion de l'agenda des négociateurs  
 
+<div align="center">
+  <h2>INFORMATIONS COMPLÉMENTAIRES</h2>
+</div>
+
+### Langues
+- **Français :** Langue maternelle  
+- **Anglais :** Niveau B1  
+
+### Centres d’intérêt
+- Danse, Culture asiatique, Loisirs créatifs, Lecture, Histoire
