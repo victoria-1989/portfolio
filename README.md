@@ -6,7 +6,6 @@ RYTHME 1 SEMAINE EN ÉCOLE, 3 SEMAINES EN ENTREPRISE - PARIS, ÎLE-DE-FRANCE<br>
 victoria.boyer1989@gmail.com | https://www.linkedin.com/in/victoria-boyer2/ | https://github.com/victoria-1989
 
 
-
 🚀 Data anlyst junior à la recherche d’une entreprise dans le cadre de mes études en alternance comme chef de projet IA/ data engineer.<br>
 🔍 Je suis curieuse, dynamique et prête à relever de nouveaux défis. 💡
 
@@ -55,6 +54,15 @@ Site: https://github.com/victoria-1989/flixoucreuse
 Sujet : Développer un modèle prédictif capable de classifier les individus en fonction de la présence ou de l'absence des maladies en se basant sur des variables médicales. Concevoir une application permettant à l'utilisateur de prédire le risque de développer une maladie<br>
 Logiciels utilisés : VS code - Google Colab - Trello - Streamlit<br>
 Site: https://github.com/victoria-1989/WLab
+
+<div align="center">
+  <h2>PROJETS PERSONNELS</h2>
+</div>
+
+# Projet Domaine des Croix
+Sujet : Analyser le marché américain du vin pour le Domaine des Croix en utilisant un jeu de données de 130 000 bouteilles afin de fixer des prix compétitifs. L'analyse inclura des visualisations et des comparaisons avec les concurrents, en particulier les Pinot Noir de Bourgogne.
+Logiciels utilisés : Python (Pandas, Seaborn) sur VS code - Jupyter Notebook - Power BI
+Site: https://github.com/victoria-1989/domaine_des_croix
 
 <div align="center">
   <h2>FORMATION</h2>
